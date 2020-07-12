@@ -1,0 +1,21 @@
+[submodule "ugui"]
+	path = ugui
+	url = https://github.com/styluslabs/ugui
+[submodule "usvg"]
+	path = usvg
+	url = https://github.com/styluslabs/usvg
+[submodule "ulib"]
+	path = ulib
+	url = https://github.com/styluslabs/ulib
+[submodule "nanovg-2"]
+	path = nanovg-2
+	url = https://github.com/styluslabs/nanovgXC
+[submodule "layout"]
+	path = layout
+	url = https://github.com/randrew/layout.git
+[submodule "stb"]
+	path = stb
+	url = https://github.com/nothings/stb.git
+[submodule "pugixml"]
+	path = pugixml
+	url = https://github.com/zeux/pugixml.git
